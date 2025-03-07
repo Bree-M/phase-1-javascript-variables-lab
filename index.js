@@ -5,5 +5,5 @@ console.log("companyName");
 let mostProfitableNeighborhood = "Chelsea";
 console.log("mostProfitableNeighborhood");
 
-companyCeo = "Susan Smith";
-console.log(companyCeo);
+ let companyCeo = "Susan Smith";
+console.log("companyCeo");
